@@ -1,2 +1,4 @@
 # hello-world
-Just another repository
+
+hi,carrie!
+It's just a learning start.
